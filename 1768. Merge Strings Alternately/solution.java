@@ -1,7 +1,7 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder word3 = new StringBuilder();
-        // String word3 = "";
+
         int maxIterations = 0;
         maxIterations = Math.max(word1.length(),word2.length());
 
