@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f786f027-8232-461e-9ecf-2b477bd6ab4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1679. Max Number of K-Sum Pairs/solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11. Container With Most Water/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/11. Container With Most Water/solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
